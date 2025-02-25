@@ -1,0 +1,58 @@
+Ruotsi?Tukholma
+Norja?Oslo
+Japani?Tokio
+Brasilia?Brasilia
+Angola?Luanda
+Intia?New Delhi
+Afganistan?Kabul
+Albania?Tirana
+Argentiina?Buenos Aires
+Armenia?Jerevan
+Australia?Canberra
+Bahama?Nassau
+Bahrain?Manama
+Bangladesh?Dhaka
+Barbados?Bridgetown
+Belgia?Bryssel
+Belize?Belmopan
+Bhutan?Thimphu
+Bosnia ja Hertsegovina?Sarajevo
+Botswana?Gaborone
+Brunei?Bandar Seri Begawan
+Bulgaria?Sofia
+Burkina Faso?Ouagadougou
+Burundi?Gitega
+Costa Rica?San Jose
+Djibouti?Djibouti
+Dominica?Roseau
+Dominikaaninen tasavalta?Santo Domingo
+Ecuador?Quito
+Egypti?Kairo
+El Salvador?San Salvador
+Eritrea?Asmara
+Espanja?Madrid
+Etelä-Sudan?Juba
+Etiopia?Addis Abeba
+Fidži?Suva
+Filippiinit?Manila
+Gabon?Libreville
+Gambia?Banjul
+Georgia?Tbilisi
+Ghana?Accra
+Grenada?St. George’s
+Guatemala?Guatemala
+Guinea?Conakry
+Guinea-Bissau?Bissau
+Guyana?Georgetown
+Haiti?Port-au-Prince
+Honduras?Tegucigalpa
+Indonesia?Jakarta
+Intia?New Delhi
+Irak?Bagdad
+Iran?Teheran
+Irlanti?Dublin
+Islanti?Reykjavík
+Israel?Jerusalem
+Italia?Rooma
+Itä-Timor?Dili
+Itävalta?Wien
