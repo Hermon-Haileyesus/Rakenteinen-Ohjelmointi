@@ -64,3 +64,9 @@ txt3 = "My name is {}, I'm {}".format("John",36)
 print(txt1)
 print(txt2)
 print(txt3)
+
+answers = ['answer1', 'answer2', 'answer3']
+
+for index, answer in enumerate(answers, 1):
+    print(f"{index}: {answer}")
+
