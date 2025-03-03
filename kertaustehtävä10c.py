@@ -12,7 +12,6 @@ def peli():
     
     voitot = 0
     for i in range(3):
-        random.shuffle(loukkaukset_vastaukset)
         loukkaus,oikea_vastaus = random.choice(loukkaukset_vastaukset)
         print(f'Your opponent says: "{loukkaus}"\n')
         vaihtoehto = [oikea_vastaus]
