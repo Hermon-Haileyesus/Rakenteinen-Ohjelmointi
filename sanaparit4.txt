@@ -1,0 +1,12 @@
+pöytä=bord
+tuoli=stol
+ovi=dörr
+ikkuna=fönster
+sohva=soffa
+nojatuoli=fåtölj
+kaappi=skåp
+hylly=hylla
+lipasto=byrå
+lattia=golv
+seinä=vägg
+maanantai=Måndag

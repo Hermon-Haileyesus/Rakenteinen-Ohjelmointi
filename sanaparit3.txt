@@ -1,0 +1,3 @@
+yksi=ett
+kaksi=två
+kolme=tre
