@@ -17,13 +17,9 @@ def lue_sanakirja(tiedosto):
 def kysely(sanakirja):
     pisteet = 0
     kysytyt = 0
-    oikein_viestit = ["Loistavaa, oikein meni!", "Hyvin tehty!", "Oikein, jatka samaan malliin!", "Hienoa, hyvä vastaus!", "Mahtavaa!"]
-    vaarin_viestit = ["Nyt meni pieleen", "Ei aivan, yritä uudelleen", "Väärin, mutta ei haittaa!", "Tarkista ensi kerralla paremmin", "Hups, väärä vastaus!"]
     while True:
         suomi, ruotsi =  random.choice(list(sanakirja.items()))
-        kysymykset= ["k1","k2"]
-
-        if random.choice(kysymykset) == "k1":
+        if random.choice([True, False]):
             vastaus = input(f'Mitä "{suomi}" on ruotsiksi? ')
             oikea_vastaus = ruotsi
         else:
@@ -51,9 +47,9 @@ def kysely(sanakirja):
         
         if vastaus.lower() == oikea_vastaus.lower():
             pisteet += 1
-            print(random.choice(oikein_viestit))
+            print('Loistavaa, oikein meni!')
         else:
-           print(f'{random.choice(vaarin_viestit)}, oikea vastaus oli "{oikea_vastaus}".')
+            print(f'Nyt meni pieleen, oikea vastaus oli "{oikea_vastaus}".')
         
         print(f'Pisteesi nyt: {pisteet}/{kysytyt}')
 
