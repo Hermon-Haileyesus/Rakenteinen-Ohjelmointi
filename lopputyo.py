@@ -21,7 +21,9 @@ def kysely(sanakirja):
     vaarin_viestit = ["Nyt meni pieleen", "Ei aivan, yritä uudelleen", "Väärin, mutta ei haittaa!", "Tarkista ensi kerralla paremmin", "Hups, väärä vastaus!"]
     while True:
         suomi, ruotsi =  random.choice(list(sanakirja.items()))
-        if random.choice([True, False]):
+        kysymykset= ["k1","k2"]
+
+        if random.choice(kysymykset) == "k1":
             vastaus = input(f'Mitä "{suomi}" on ruotsiksi? ')
             oikea_vastaus = ruotsi
         else:
